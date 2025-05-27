@@ -83,16 +83,4 @@ This project is inspired by the AdaIR and DeblurDiNAT repositories.
 - [DeblurDiNAT](https://github.com/HanzhouLiu/DeblurDiNAT)
 - GoPro Dataset: [Download](https://seungjunnah.github.io/Datasets/gopro)
 
----
-
-## License
-
-MIT License
-
----
-
-## Contact
-
-Project by **Mohit Bhat**  
-For queries: mohitbhat001@gmail.com
 
